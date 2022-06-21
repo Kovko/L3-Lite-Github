@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c33c55fb.css",
+    "main.js": "/static/js/main.5f41eeca.js",
+    "static/media/logo-rethink-hr-huge-without-border.png": "/static/media/logo-rethink-hr-huge-without-border.1878f4f1e1b9b4be4c72.png",
+    "index.html": "/index.html",
+    "main.c33c55fb.css.map": "/static/css/main.c33c55fb.css.map",
+    "main.5f41eeca.js.map": "/static/js/main.5f41eeca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c33c55fb.css",
+    "static/js/main.5f41eeca.js"
+  ]
+}
